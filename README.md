@@ -4,9 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=millerp&hide=c%23,c,c%2B%2B,objective-c&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/millerp/millerp/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/millerp/millerp/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/millerp/millerp/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <!--
