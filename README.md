@@ -3,7 +3,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=millerp&theme=github_dark&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=millerp&hide=c%23,c,c%2B%2B,objective-c&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
- ![Snake animation](https://raw.githubusercontent.com/millerp/millerp/output/github-contribution-grid-snake.svg)
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <!--
 **millerp/millerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
