@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats-pi-ashen-90.vercel.app/api?username=millerp&theme=github_dark&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-pi-ashen-90.vercel.app/api/top-langs/?username=millerp&hide=c%23,c,c%2B%2B,objective-c,js,ts,html,css&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-pi-ashen-90.vercel.app/api/top-langs/?username=millerp&hide=c%23,c,c%2B%2B,objective-c,js,ts,html,css,javascript&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source
